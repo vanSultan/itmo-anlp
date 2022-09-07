@@ -3,7 +3,7 @@
 ## Homework Tracker
 
 - Homework №1
-  - Part 1. Data cleaning \[:white_circle:\]
+  - Part 1. Data cleaning \[:red_circle:\]
   - Part 2. Duplicates detection. LSH \[:white_circle:\]
   - Part 3. Topic model \[:white_circle:\]
 - Homework №2
