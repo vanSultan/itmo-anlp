@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "itmo-anlp"
+version = "0.1.0"
+description = "ITMO Advanced NLP (2022)"
+authors = ["Sultan Zhumabaev <romtrash98@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "itmo_anlp"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
