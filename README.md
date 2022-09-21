@@ -22,3 +22,7 @@
 ---
 
 > Deadline: *2022-09-22*
+
+## Notes
+
+- numpy and scipy installed from [non-official repo](https://www.lfd.uci.edu/~gohlke/pythonlibs/).
