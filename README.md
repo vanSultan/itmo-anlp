@@ -3,8 +3,8 @@
 ## Homework Tracker
 
 - Homework №1
-  - Part 1. Data cleaning \[:white_circle:\]
-  - Part 2. Duplicates detection. LSH \[:white_circle:\]
+  - Part 1. Data cleaning \[:page_facing_up:\]
+  - Part 2. Duplicates detection. LSH \[:page_facing_up:\]
   - Part 3. Topic model \[:white_circle:\]
 - Homework №2
   - \[:white_circle:\]
@@ -22,3 +22,7 @@
 ---
 
 > Deadline: *2022-09-22*
+
+## Notes
+
+- numpy and scipy installed from [non-official repo](https://www.lfd.uci.edu/~gohlke/pythonlibs/).
