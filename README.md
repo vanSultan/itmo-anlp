@@ -12,7 +12,8 @@
   - Part 3. Measuring the quality \[:page_facing_up:\]
   - Part 4. Training the model \[:page_facing_up:\]
 - Homework №3
-  - \[:white_circle:\]
+  - Part 1. Attention \[:page_facing_up:\]
+  - Part 2. BERT \[:page_facing_up:\]
 - Homework №4
   - \[:white_circle:\]
 
